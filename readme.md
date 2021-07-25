@@ -1,6 +1,6 @@
 # s3lib
 
-A small library for reading and writing json objects to keys in an s3 bucket
+A small library for reading and writing json objects to keys in an s3 bucket.
 
 ## Usage
 
